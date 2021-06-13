@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>2019.11.12 - v5-2-lezakowanie-20minut.jpg</filename>
+	<path>D:\Programming\Find_LC_Sediment_ML_model\Find_LC_sediment\images\test\2019.11.12 - v5-2-lezakowanie-20minut.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sediment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>617</ymin>
+			<xmax>782</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sediment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>655</ymin>
+			<xmax>618</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

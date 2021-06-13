@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>2020.06.10 - PDMS-v5K_T1_PS-zLC-45st_x50_Left-Channel.jpg</filename>
+	<path>D:\Programming\Find_LC_Sediment_ML_model\Find_LC_sediment\images\train\2020.06.10 - PDMS-v5K_T1_PS-zLC-45st_x50_Left-Channel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sediment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1123</xmin>
+			<ymin>90</ymin>
+			<xmax>1341</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sediment</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1450</xmin>
+			<ymin>372</ymin>
+			<xmax>1600</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

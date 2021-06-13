@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>2019.11.22 - PDMS-v5F1-Fiber-Fiber-0st-0V-calosc-left.jpg</filename>
+	<path>D:\Programming\Find_LC_Sediment_ML_model\Find_LC_sediment\images\train\2019.11.22 - PDMS-v5F1-Fiber-Fiber-0st-0V-calosc-left.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sediment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>637</ymin>
+			<xmax>860</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>
